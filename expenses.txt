@@ -1,2 +1,8 @@
 Tahejib pathan,04-10-2025,Travel,200.0
-tanvi,04-10-2025,pizza,300.0
+Tahzib,10-09-2025,Food,30.0
+Tanvi,12-09-2025,Travel,100.0
+Tahzib,10-03-2025,Maggie,30.0
+Tanvi,11-3-2025,Travel,100.0
+Sakshi,17-4-2025,Milkshake,50.0
+Tanuja,19-5-2025,Takeout,200.0
+Aarya,20-9-2025,Shoes,1000.0
